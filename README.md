@@ -16,7 +16,7 @@ If there are any additional issues that arise, please file an issue on this gith
 
 #### 2nd release
 
--   fix chatroom avatars so that nostr avatars are shown in chat. (see link to video below)
+-   fix chatroom avatars so that nostr avatars are shown in chat.
 -   add 'Talking in room now' user post to nostr relays. (similar to twitter/X)
 -   Add Zap functionality
 -   is there a webRTC timeout?
@@ -32,10 +32,3 @@ If there are any additional issues that arise, please file an issue on this gith
 -   Release **Open Source** to Public on Stable.
 
 <hr>
-
-### Additional Notes to Fix from Above: 
-
-- see in video below, the nostr profile opens out to an external window. the link should be a more visible button, such as dropdown
-- Also see chat avatars in chat are not matching the nostr logged in avatar. Random name avatars are OK. 
-
-https://github.com/HiveTalk/hivetalksfu/assets/73979971/58f6b487-76c2-44da-9261-651d4fc5cc8b
