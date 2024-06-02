@@ -1,6 +1,10 @@
 # HiveTalk Roadmap
 
-### TODO List
+## Issues
+If there are any additional issues that arise, please file an issue on this github repo.
+
+
+## TODO List. 
 
 #### 1st release
 
