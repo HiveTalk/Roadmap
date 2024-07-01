@@ -33,7 +33,7 @@ If there are any additional issues that arise, please file an issue on this gith
 - chatroom string length trunction issue, npub pasted freeze chat
 - rework REST API for token generation
 - add Websockets API
-- enable unleashed.chat
+- integrate unleashed.chat to replace chatgpt
 
 
 <hr>
