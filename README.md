@@ -20,7 +20,7 @@ If there are any additional issues that arise, please file an issue on this gith
 -  Fix lobby bug - done
 -  Login has 5 options - nostr, random name, lightning address, your personalized name, gravatar email - done
 -  Add Zap functionality to video on and off  - done
--  Add 'Talking in room now' user post to nostr relays. (similar to twitter/X)
+-  Add 'Talking in room now' user post to nostr relays. (similar to twitter/X) [delay this until after open source]
 
 #### 3rd release
 
