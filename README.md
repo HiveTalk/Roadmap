@@ -21,6 +21,7 @@ If there are any additional issues that arise, please file an issue on this gith
 -  Login has 5 options - nostr, random name, lightning address, your personalized name, gravatar email - done
 -  Add Zap functionality to video on and off  - done
 -  Add 'Talking in room now' user post to nostr relays. (similar to twitter/X) [delay this until after open source]
+-  push changes after everyone gets off server later today or tomorrow (7/1/2024)
 
 #### 3rd release
 
