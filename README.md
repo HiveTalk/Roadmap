@@ -31,7 +31,7 @@ If there are any additional issues that arise, please file an issue on this gith
 ## Other Open issues after Open source Release:
 - fix chatroom avatars so that nostr avatars are shown in chat. ??
 - chatroom string length trunction issue, npub pasted freeze chat
-- rework REST API
+- rework REST API for token generation
 - add Websockets API
 - enable unleashed.chat
 
