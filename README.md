@@ -16,8 +16,11 @@ If there are any additional issues that arise, please file an issue on this gith
 
 #### 2nd release
 
--   Add Zap functionality (basic version done) 
--   add 'Talking in room now' user post to nostr relays. (similar to twitter/X)
+-  Fix Login bugs - done
+-  Fix lobby bug - done
+-  Login has 5 options - nostr, random name, lightning address, your personalized name, gravatar email - done
+-  Add Zap functionality to video on and off  - done
+-  Add 'Talking in room now' user post to nostr relays. (similar to twitter/X)
 
 #### 3rd release
 
