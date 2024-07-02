@@ -20,6 +20,7 @@ If there are any additional issues that arise, please file an issue on this gith
 -  Fix lobby bug - done
 -  Login has 5 options - nostr, random name, lightning address, your personalized name, gravatar email - done
 -  Add Zap functionality to video on and off  - done
+-  add lightning address icon for lightning logins, use gravatar for gravatar, default for anon or other
 -  push changes after everyone gets off server later today or tomorrow (7/1/2024)
 
 #### 3rd release
