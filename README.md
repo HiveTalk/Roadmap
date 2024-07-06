@@ -25,8 +25,8 @@ If there are any additional issues that arise, please file an issue on this gith
 
 #### 3rd release
 
--   Merge fixes from upstream.
--   Clean up messy components in code base.
+-   Merge fixes from upstream. (nothing major since may, will delay until aug)
+-   Clean up messy components in code base. - mostly done
 
 #### Open Source Release
 -   Release **Open Source** to Public on Stable.
