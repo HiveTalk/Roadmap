@@ -29,7 +29,7 @@ If there are any additional issues that arise, please file an issue on this gith
 -   Clean up messy components in code base. - mostly done
 
 #### Open Source Release
--   Release **Open Source** to Public on Stable.
+-   Release **Open Source** to Public on Stable. 7/7/2024  - DONE
 
 
 ## Other Open issues/Tasks after Open source Release:
