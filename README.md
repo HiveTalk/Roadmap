@@ -33,10 +33,11 @@
 
 
 ## Other Open issues/Tasks after Open source Release: -
-- fix chatroom avatars so that nostr avatars are shown in chat. ??
-- chatroom string length trunction issue, npub pasted freeze chat
-- integrate unleashed.chat? or chatbtc to replace chatgpt
+- [fix chatroom avatars so that nostr avatars are shown in chat. see Good First Issues](https://github.com/HiveTalk/hivetalksfu/issues)
+- [chatroom string length trunction issue, npub pasted freeze chat see good first issues](https://github.com/HiveTalk/hivetalksfu/issues)
 
+  
+- integrate unleashed.chat? or chatbtc to replace chatgpt (karrot)
 - rework REST API for token generation (karrot)
 - add Websockets API (karrot)
 
