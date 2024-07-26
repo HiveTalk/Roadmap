@@ -1,12 +1,12 @@
-# HiveTalk Roadmap
+# HiveTalk Roadmap 
 
-## Issues
-If there are any additional issues that arise, please file an issue on this github repo.
+# Please see [good first issues](https://github.com/HiveTalk/hivetalksfu/issues), contributors welcome
 
+## Below items are past history
 
-## TODO List. 
+## ~~TODO List~~ Complete
 
-#### 1st release
+#### 1st release - DONE
 
 -   add nostr login - done
 -   add nostr avatar picture, name - done
@@ -14,7 +14,7 @@ If there are any additional issues that arise, please file an issue on this gith
     - ( use built-in API to pull data to front page, see samples in codebase) - done
 -   add link to nostr profile in the chat avatar.  Make this more visible on the dropdown (v2) - done
 
-#### 2nd release
+#### 2nd release - DONE
 
 -  Fix Login bugs - done
 -  Fix lobby bug - done
@@ -23,16 +23,16 @@ If there are any additional issues that arise, please file an issue on this gith
 -  add lightning address icon for lightning logins, use gravatar for gravatar, default for anon or other - done
 -  push changes after everyone gets off server later today or tomorrow (7/1/2024) - Done
 
-#### 3rd release
+#### 3rd release  - DONE
 
 -   Merge fixes from upstream. (nothing major since may, will delay until aug)
 -   Clean up messy components in code base. - mostly done
 
-#### Open Source Release
+#### Open Source Release - DONE
 -   Release **Open Source** to Public on Stable. 7/7/2024  - DONE
 
 
-## Other Open issues/Tasks after Open source Release:
+## Other Open issues/Tasks after Open source Release: -
 - fix chatroom avatars so that nostr avatars are shown in chat. ??
 - chatroom string length trunction issue, npub pasted freeze chat
 - integrate unleashed.chat? or chatbtc to replace chatgpt
